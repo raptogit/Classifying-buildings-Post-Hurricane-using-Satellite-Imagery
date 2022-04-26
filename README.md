@@ -23,8 +23,9 @@ Damage assessment is crucial for emergency managers to respond quickly and alloc
 <b>Step D</b>: Applying tranfer learning.<br>
 <b>Step E</b>: Comaring results and conclusion.<br>
 
-# In a Nutshell   
-In a nutshell here's how to use this template, so **for example** assume you want to implement ResNet-18 to train mnist, so you should do the following:
+# In a Nutshell:
+- <b>Step A</b>: Taking a look at the data and images.<br>
+
 - In `modeling`  folder create a python file named whatever you like, here we named it `example_model.py` . In `modeling/__init__.py` file, you can build a function named `build_model` to call your model
 
 ```python
