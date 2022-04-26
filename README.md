@@ -1,5 +1,8 @@
 # Classifying-buildings-Post-Hurricane-using-Satellite-Imagery
 
+## Introduction:
+![hurricane] ("https://www.canva.com/design/DAE92a46nT8/XkPcql1R-59qwViGAMslkA/view?utm_content=DAE92a46nT8&utm_campaign=designshare&utm_medium=link&utm_source=homepage_design_menu")
+
 Damage assessment is crucial for emergency managers to respond quickly and allocate resources after a hurricane. Quantifying the number of flooded/damaged structures, which is generally done via ground survey, is one technique to measure the magnitude of the damage. This procedure can be time-consuming and labor-intensive. We create a convolutional neural network from the ground up and compare it to a widely used neural network for object classification. In a case study of building damage, we demonstrate the promise of our damage annotation approach (almost 97 percent accuracy).The data are satellite images from Texas after Hurricane Harvey divided into two groups (damage and no_damage). The goal is to make a model which can automatically identify if a given region is likely to contain flooding damage.
 
 **We are going on a journey to make it a reality**
