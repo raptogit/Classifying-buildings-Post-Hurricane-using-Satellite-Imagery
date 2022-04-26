@@ -28,9 +28,13 @@ Damage assessment is crucial for emergency managers to respond quickly and alloc
 
 ![Damaged and undamaged houses post hurricane](assets_for_github/output.jpeg) 
 
-- <b>Step B</b>: Data pre-processing.<br>
+Data Exploration: 
 
 ![Damaged and undamaged houses post hurricane](assets_for_github/data.png) 
+
+- <b>Step B</b>: Data pre-processing.<br>
+
+
 
 ```python
 from .example_model import ResNet18
