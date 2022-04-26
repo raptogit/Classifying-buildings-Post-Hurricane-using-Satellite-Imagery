@@ -13,7 +13,7 @@ Damage assessment is crucial for emergency managers to respond quickly and alloc
 - [Tensorflow](https://www.tensorflow.org/) (The core open source library to help you develop and train ML models.) 
 - [Sklearn](https://scikit-learn.org/) (Scikit-learn is a free software machine learning library for Python.)
 - [Numpy](https://numpy.org/) (NumPy can be used to perform a wide variety of mathematical operations on arrays.)
-- [Numpy](https://numpy.org/) (NumPy can be used to perform a wide variety of mathematical operations on arrays.)
+- [Pandas](https://pandas.pydata.org/) (Pandas is a software library written for the Python programming language for data manipulation and analysis)
 
 # Table Of Contents
 ## Steps to take : <br>
