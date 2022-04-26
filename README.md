@@ -25,9 +25,8 @@ Damage assessment is crucial for emergency managers to respond quickly and alloc
 
 # In a Nutshell:
 - <b>Step A</b>: Taking a look at the data and images.<br>
-<span style="color: white">
+<img src="asses_for_github/output.png" style="background-color:red;">
 ![Damaged and undamaged houses post hurricane](asses_for_github/output.png) 
-    </span>
 - In `modeling`  folder create a python file named whatever you like, here we named it `example_model.py` . In `modeling/__init__.py` file, you can build a function named `build_model` to call your model
 
 ```python
