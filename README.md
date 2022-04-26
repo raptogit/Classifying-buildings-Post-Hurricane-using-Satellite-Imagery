@@ -25,7 +25,7 @@ Damage assessment is crucial for emergency managers to respond quickly and alloc
 
 # In a Nutshell:
 - <b>Step A</b>: Taking a look at the data and images.<br>
-!(https://raw.githubusercontent.com/raptogit/Classifying-buildings-Post-Hurricane-using-Satellite-Imagery/main/asses_for_github/output.png)
+![] (https://raw.githubusercontent.com/raptogit/Classifying-buildings-Post-Hurricane-using-Satellite-Imagery/main/asses_for_github/output.png)
 - In `modeling`  folder create a python file named whatever you like, here we named it `example_model.py` . In `modeling/__init__.py` file, you can build a function named `build_model` to call your model
 
 ```python
