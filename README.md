@@ -1,5 +1,10 @@
 # Classifying-buildings-Post-Hurricane-using-Satellite-Imagery
 
+## Introduction:
+![alt text](https://www.canva.com/design/DAE92a46nT8/XkPcql1R-59qwViGAMslkA/view?utm_content=DAE92a46nT8&utm_campaign=designshare&utm_medium=link&utm_source=homepage_design_menu)
+
+! [hurricane] (https://www.canva.com/design/DAE92a46nT8/XkPcql1R-59qwViGAMslkA/view?utm_content=DAE92a46nT8&utm_campaign=designshare&utm_medium=link&utm_source=homepage_design_menu)
+
 Damage assessment is crucial for emergency managers to respond quickly and allocate resources after a hurricane. Quantifying the number of flooded/damaged structures, which is generally done via ground survey, is one technique to measure the magnitude of the damage. This procedure can be time-consuming and labor-intensive. We create a convolutional neural network from the ground up and compare it to a widely used neural network for object classification. In a case study of building damage, we demonstrate the promise of our damage annotation approach (almost 97 percent accuracy).The data are satellite images from Texas after Hurricane Harvey divided into two groups (damage and no_damage). The goal is to make a model which can automatically identify if a given region is likely to contain flooding damage.
 
 **We are going on a journey to make it a reality**
@@ -13,7 +18,7 @@ Damage assessment is crucial for emergency managers to respond quickly and alloc
 - [Tensorflow](https://www.tensorflow.org/) (The core open source library to help you develop and train ML models.) 
 - [Sklearn](https://scikit-learn.org/) (Scikit-learn is a free software machine learning library for Python.)
 - [Numpy](https://numpy.org/) (NumPy can be used to perform a wide variety of mathematical operations on arrays.)
-- [Numpy](https://numpy.org/) (NumPy can be used to perform a wide variety of mathematical operations on arrays.)
+- [Pandas](https://pandas.pydata.org/) (Pandas is a software library written for the Python programming language for data manipulation and analysis)
 
 # Table Of Contents
 ## Steps to take : <br>
@@ -28,7 +33,13 @@ Damage assessment is crucial for emergency managers to respond quickly and alloc
 
 ![Damaged and undamaged houses post hurricane](assets_for_github/output.jpeg) 
 
+Data Exploration: 
+
+![Damaged and undamaged houses post hurricane](assets_for_github/data.png) 
+
 - <b>Step B</b>: Data pre-processing.<br>
+
+
 
 ```python
 from .example_model import ResNet18
