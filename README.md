@@ -3,6 +3,9 @@
 ## Introduction:
 ![What is hurricane ?](assets_for_github/hurricane.jpg) 
 
+### A hurricane is a tropical storm with winds that have reached a constant speed of 74 miles per hour or more. The eye of a storm is usually 20-30 miles wide and may extend over 400 miles. The dangers of a storm include torrential rains, high winds and storm surges.
+
+## Abstract :
 Damage assessment is crucial for emergency managers to respond quickly and allocate resources after a hurricane. Quantifying the number of flooded/damaged structures, which is generally done via ground survey, is one technique to measure the magnitude of the damage. This procedure can be time-consuming and labor-intensive. We create a convolutional neural network from the ground up and compare it to a widely used neural network for object classification. In a case study of building damage, we demonstrate the promise of our damage annotation approach (almost 97 percent accuracy).The data are satellite images from Texas after Hurricane Harvey divided into two groups (damage and no_damage). The goal is to make a model which can automatically identify if a given region is likely to contain flooding damage.
 
 **We are going on a journey to make it a reality**
